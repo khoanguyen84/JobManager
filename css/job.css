@@ -1,4 +1,4 @@
-*,*::before,*::after{
+*{
     padding: 0px;
     margin: 0px;
     font-family: 'Courier New', Courier, monospace;
@@ -99,4 +99,8 @@
 .table-hover>tbody tr:hover{
     background-color: rgb(145, 135, 135);
     cursor: pointer;
+}
+
+.danger{
+    color:#dc3545
 }
