@@ -10,3 +10,8 @@
 + Kiến thức vòng lặp
 + Lưu trữ dữ liệu ở trình duyệt web (Window.LocalStorage)
 + Kiến thức DOM, BOM
+5. Publish site sử dụng github
++ Bước 1: Vào remote repo
++ Bước 2: chọn tab setting
++ Bước 3: Menu bên trái chọn Pages
++ Bước 4: ở phần Source -> chọn nhánh (master/main), sau đó nhấn nút Save => xuất hiện link website
