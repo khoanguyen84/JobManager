@@ -1,4 +1,6 @@
 # Build Job Mangement page
+## Link sản phẩm cuối cùng
++ https://khoanguyen84.github.io/JobManager/
 ## Sử dụng các kiến thức của module 1
 1. Làm theo template: https://www.pinterest.com/pin/7810999345026393/
 2. HTML
