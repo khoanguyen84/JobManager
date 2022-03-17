@@ -38,6 +38,21 @@
     border-radius: 3px;
 }
 
+.form-control-sm{
+    border: none;
+    outline: none;
+    padding: 5px 5px;
+    width: 100px;
+    border-radius: 3px;
+}
+.form-control-md{
+    border: none;
+    outline: none;
+    padding: 5px 5px;
+    width: 150px;
+    border-radius: 3px;
+}
+
 .btn{
     border: none;
     outline: none;
@@ -100,7 +115,15 @@
     background-color: rgb(145, 135, 135);
     cursor: pointer;
 }
-
+.d-none{
+    display: none;
+}
 .danger{
     color:#dc3545
+}
+.waring{
+    color:#ffc107
+}
+.success{
+    color:#28a745
 }
